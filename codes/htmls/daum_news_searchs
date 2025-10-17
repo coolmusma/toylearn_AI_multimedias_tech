@@ -1,0 +1,969 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ko">
+
+<head profile="http://a9.com/-/spec/opensearch/1.1/">
+    <meta http-equiv="content-Type" content="text/html;charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="autocomplete" content="off" />
+    <meta name="referrer" content="always">
+    <meta name="format-detection" content="telephone=no,address=no,email=no" />
+    <meta property="og:title" content="LG%EC%A0%84%EC%9E%90 &ndash; Daum 검색" />
+    <meta property="og:url"
+        content="https://search.daum.net/search?w=news&amp;nil_search=btn&amp;DA=NTB&amp;enc=utf8&amp;cluster=y&amp;cluster_page=1&amp;q=LG%25EC%25A0%2584%25EC%259E%2590" />
+    <meta property="og:description" content="Daum 검색에서 LG%EC%A0%84%EC%9E%90에 대한 최신정보를 찾아보세요." />
+    <meta property="og:image" content="https://search1.daumcdn.net/search/statics/common/img/20250107/daum_og.png" />
+    <meta property="og:site_name" content="다음검색" />
+    <link href="https://t1.daumcdn.net/top/favicon/20241223/daum.ico" rel="shortcut icon" />
+    <link rel="preconnect" href="//sl.search.daum.net/">
+    <link rel="preconnect" href="//ssl.daumcdn.net/">
+    <link rel="preconnect" href="//t1.daumcdn.net/">
+    <link rel="preconnect" href="//wat.ad.daum.net/">
+    <link rel="preconnect" href="//track.tiara.daum.net/">
+    <link rel="preconnect" href="//webid.ad.daum.net/">
+    <link rel="preconnect" href="//webid.kakao.com/">
+    <title>LG%EC%A0%84%EC%9E%90 &ndash; Daum 검색</title>
+    <link rel="search" type="application/opensearchdescription+xml" href="//search.daum.net/OpenSearch.xml"
+        title="Daum">
+    <link rel="stylesheet" type="text/css"
+        href='//search1.daumcdn.net/search/statics/common/css/2025/p_common.0616014933.css' charset="utf-8">
+    <link rel="stylesheet" type="text/css"
+        href='//search1.daumcdn.net/search/statics/common/css/2024/p_component.0610023548.css' charset="utf-8">
+    <link rel="stylesheet" type="text/css"
+        href='//search1.daumcdn.net/search/statics/common/css/2025/pm_common.0915035016.css' charset="utf-8">
+    <link rel="stylesheet" type="text/css"
+        href='//search1.daumcdn.net/search/statics/common/css/2025/q_comm.0916033011.css' charset="utf-8">
+    <link rel="stylesheet" type="text/css"
+        href='//search1.daumcdn.net/search/statics/common/js/fe/cubic/20250922153547/cubic.css' charset="utf-8">
+    <link rel="stylesheet" type="text/css"
+        href='//search1.daumcdn.net/search/statics/common/css/2025/p_collection.0114125841.css' charset="utf-8">
+    <link rel="stylesheet" type="text/css"
+        href='//search1.daumcdn.net/search/statics/common/css/2025/p_collection2.0623014227.css' charset="utf-8">
+    <link rel="stylesheet" type="text/css"
+        href="//search1.daumcdn.net/search/statics/common/css/2024/p_newsColl.1105104334.css" charset="utf-8">
+    <script type="text/javascript">
+        var uk = "1d2c8ec8-bd1b-43a4-92a1-9ad6191cf0a1";
+        var mk = "1d2c8ec8-bd1b-43a4-92a1-9ad6191cf0a1";
+        var ksk = "1d2c8ec8-bd1b-43a4-92a1-9ad6191cf0a1";
+        var ud = "";
+        var uuid = "";
+        var adid = "";
+        var adid_enabled = "N";
+        var viewio = "i";
+        var viewsite = "";
+        var ServerTime = "20251016130445";
+        var utf8Query = encodeURIComponent("LG%EC%A0%84%EC%9E%90");
+        var topQuery = "LG%EC%A0%84%EC%9E%90";
+        var backQuery = encodeURIComponent("LG%EC%A0%84%EC%9E%90");
+        var login_yn = "N";
+        var encodeType = "2";
+        var refCode = "";
+        var bucketType = "";
+        var name_check = "0";
+        var mobileDevice = "N";
+        var param_w = "news";
+        var param_da = "NTB";
+        var paramCfg = "";
+        var param_cnucc = "";
+        var tpl_cfg = "";
+        var cnucc = "";
+        var usrIp = "20.52.126.5";
+        var isDetailTab = "N";
+        var schSort = "";
+        var existMobileTabYn = "N";
+        var width_over_620 = "N";
+        var sPageLoadedmsTime = 38;
+        var isReleaseMode = '';
+        var isTotDebugMode = false;
+        var KAKAO_ACCOUNT_ID_CONNECTED = "N";
+        var displayInfo = { "SER": [{ "code": "DNS", "doc_count": 0 }], "SGR": [{ "code": "DZR", "doc_count": 10 }, { "code": "DTX", "doc_count": 10 }, { "code": "R0T", "doc_count": 10 }], "SUI": [], "CUT": [] };
+        var usr4 = "DZR10_DTX10_R0T10_DNS0_NNN1";
+        var slCallType = "sync";
+        var pageLoadedTime = 0;
+        var startTime = new Date().getTime();
+        var sugLocCode = "";
+        var searchLog = {
+            uc: 0,
+            clickCount: 0,
+            dl: ""
+        };
+        var SEARCHLOGDOMAIN = "\/\/sl.search.daum.net";
+        var CNUCC_URL = "https:\/\/harm.search.daum.net\/v2\/api\/report-harm";
+        var SUG_URL = "\/\/suggest.search.daum.net\/sushi\/pc\/get";
+        var VSUG_URL = "\/\/vmsuggest.search.daum.net\/v2\/sushi\/pc\/get";
+        var ASUG_URL = "\/\/ninstant.search.daum.net\/suggest\/index.daum";
+        var AMADO_URL = "\/\/search1.daumcdn.net\/search\/statics\/common\/js\/fe\/amado-workspace\/pc\/2.8.0\/main.js";
+        var SF = {
+            phase: "prod",
+            userQueryParamW: "news",
+            platform: "pc",
+            iam: {
+                clean: false,
+                geo: false,
+                login: false,
+                adult: false,
+                adultUrl: "https:\/\/logins.daum.net\/accounts\/loginform.do?service=adult_service\u0026url=https%3A%2F%2Fsearch.daum.net%2Fsearch%3FDA%3DNTB%26cluster%3Dy%26cluster_page%3D1%26enc%3Dutf8%26nil_search%3Dbtn%26q%3DLG%2525EC%2525A0%252584%2525EC%25259E%252590%26realname_redirect%3D1%26w%3Dnews"
+            },
+            ua: { "ua": "axios/1.12.0", "browser": { "name": "", "version": { "info": "", "major": 0, "minor": 0, "patch": 0 } }, "device": "", "os": { "name": "unix", "version": { "info": "", "major": 0, "minor": 0, "patch": 0 } }, "platform": "pc", "app": { "isDaumapp": false, "isKakao": false, "version": { "info": "", "major": 0, "minor": 0, "patch": 0 } } }
+        };
+        SF.ua.app.isApp = SF.ua.app.isDaumapp;
+        SF.ua.os[SF.ua.os.name] = true;
+        SF.ua.browser[SF.ua.browser.name] = true;
+        SF.loadModuleList = { "amcharts": "//search1.daumcdn.net/search/statics/common/js/fe/tot-search/library/p/amcharts.20190321202015.min.js", "calendar": "//search1.daumcdn.net/search/statics/common/js/fe/tot-search/module/p/calendar/module.p.calendar.20210312112039.min.js", "chart": "//search1.daumcdn.net/search/statics/common/js/fe/tot-search/library/p/chart.20200602182334.min.js", "kakaosdk": "//search1.daumcdn.net/search/statics/common/js/fe/tot-search/library/p/kakaosdk.20230811110443.min.js", "kakaotv": "//tv.kakao.com/player/script/sdk/player_api.min.js", "ks": "//search1.daumcdn.net/search/statics/common/js/fe/tot-search/module/p/ks/module.p.ks.20221122154101.min.js", "pagenavigation": "//search1.daumcdn.net/search/statics/common/js/fe/tot-search/module/p/pagenavigation/module.p.pagenavigation.20220705092744.min.js", "v3": "//ssl.daumcdn.net/dmaps/map_js_init/v3.js", "youtube": "//www.youtube.com/player_api" };
+        var SD = {};
+        var SG = {};
+        var C = {};
+        var T = {};
+        var SL = {
+            mkeyLog: function () { },
+            freelog: {
+                send: function () { }
+            },
+            dexposeLog: {
+                send: function () { }
+            },
+            xscrollLog: function () { }
+        };
+        var smartLog = function () { };
+    </script>
+    <script type="text/javascript"
+        src="//search1.daumcdn.net/search/statics/common/js/fe/tot-workspace/polyfill/p-legacy/1.4.0/main.min.js"
+        crossorigin="anonymous" charset="utf-8"></script>
+    <script type="text/javascript"
+        src="//search1.daumcdn.net/search/statics/common/js/fe/tot-workspace/logger/1.2.0/main.js?o=p"
+        crossorigin="anonymous" charset="utf-8"></script>
+    <script type="text/javascript"
+        src="//search1.daumcdn.net/search/statics/common/js/fe/tot-workspace/vendor/p/1.1.1/main.min.js"
+        crossorigin="anonymous" charset="utf-8"></script>
+    <script type="text/javascript"
+        src="//search1.daumcdn.net/search/statics/common/js/fe/tot-workspace/search-log/p/1.4.0/main.min.js"
+        crossorigin="anonymous" charset="utf-8"></script>
+    <script type="text/javascript"
+        src="//search1.daumcdn.net/search/statics/common/js/fe/tot-workspace/module/1.46.0/main.min.js?o=p"
+        crossorigin="anonymous" charset="utf-8"></script>
+    <script type="text/javascript"
+        src="//search1.daumcdn.net/search/statics/common/js/fe/tot-workspace/library/1.39.1/remoteEntry.js?o=p"
+        crossorigin="anonymous" charset="utf-8"></script>
+    <script type="text/javascript"
+        src="//search1.daumcdn.net/search/statics/common/js/fe/tot-workspace/runtime/1.37.0/main.min.js?o=p"
+        crossorigin="anonymous" charset="utf-8"></script>
+    <script type="text/javascript"
+        src="//search1.daumcdn.net/search/statics/common/js/fe/cubic/20250922153547/cubic.min.js?o=p"
+        crossorigin="anonymous" charset="utf-8"></script>
+    <script type="text/javascript" src="//t1.daumcdn.net/tiara/js/v1/tiara-1.2.0.min.js"></script>
+    <script type="text/javascript">
+        (function (SF) {
+            SF.tiaraTracker.setDefaultConfig();
+        })(window.SF || {});
+    </script>
+</head>
+
+<body class="daum unix  pc">
+    <script type="text/javascript">
+        SL.mkeyLog();
+    </script>
+    <nav id="daumIndex" class="d_direct">
+        <a href="#daumBody" class="link_direct">본문 바로가기</a>
+        <a href="#daumGnb" class="link_direct">메뉴 바로가기</a>
+    </nav>
+    <div id="saq" style="display:none">LG%EC%A0%84%EC%9E%90</div>
+    <div id="daumWrap" class="sch_tab_news">
+        <header id="daumHead">
+            <div class="d_head">
+                <h1 class="screen_out">다음</h1>
+                <h2 class="screen_out">검색</h2>
+                <div id="innerHeader" class="inner_header">
+                    <form id="daumSearch" name="search" method="get" class="d_sch">
+                        <fieldset class="fld_total">
+                            <legend class="screen_out">검색폼</legend>
+                            <input type="hidden" id="nil_suggest" name="nil_suggest" value="btn">
+                            <input type="hidden" id="nil_ch" name="nil_ch" value="">
+                            <input type="hidden" name="rtupcoll" value="">
+                            <input type="hidden" name="w" value="news">
+                            <input type="hidden" name="m" value="">
+                            <input type="hidden" id="f" name="f" value="">
+                            <input type="hidden" name="lpp" value="">
+                            <input type="hidden" name="DA" value="SBC">
+                            <input type="hidden" name="sug" value="">
+                            <input type="hidden" name="sq" value="">
+                            <input type="hidden" name="o" value="">
+                            <input type="hidden" name="sugo" value="">
+                            <input type="hidden" name="cluster" value="y">
+                            <div class="box_searchbar">
+                                <div class="inner_searchbar">
+                                    <a id="daumLogo" class="link_service" href="https://www.daum.net/"
+                                        onclick='smartLog(this, "e=1&dc=MLC", event);' title="Daum 메인페이지로 가기"
+                                        target="_top" data-target="_top">
+                                        <img src="//search1.daumcdn.net/search/statics/common/pi/logo/logo_D112x112_241223.svg"
+                                            height="56" alt="Daum">
+                                    </a>
+                                    <input type="text" class="tf_keyword" id="q" name="q" title="검색어 입력"
+                                        value="LG%EC%A0%84%EC%9E%90" autocomplete="off" maxlength="255">
+                                    <button id="btnResetHeader"
+                                        onclick="smartLog(this, 'pg=1&p=2&r=1&rc=1&dc=SBC&at=func', event);"
+                                        class="btn_reset" title="검색어 지우기" type="button">
+                                        <span class="ico_ksg">입력삭제</span>
+                                    </button>
+                                    <button type="button" id="VKIBtn" class="btn_vkey"
+                                        onclick="smartLog(this, 'pg=1&p=1&r=1&rc=1&dc=BFJ&at=func', event);"
+                                        title="가상키보드 열기" aria-label="가상키보드 열기">
+                                        <svg width="28" height="28" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <rect width="24" height="15" x="2" y="6.5" stroke="currentColor"
+                                                stroke-width="2" rx="4"></rect>
+                                            <rect width="2" height="2" x="6" y="9.5" fill="currentColor" rx=".5"></rect>
+                                            <rect width="2" height="2" x="9.5" y="9.5" fill="currentColor" rx=".5">
+                                            </rect>
+                                            <rect width="2" height="2" x="13" y="9.5" fill="currentColor" rx=".5">
+                                            </rect>
+                                            <rect width="2" height="2" x="16.5" y="9.5" fill="currentColor" rx=".5">
+                                            </rect>
+                                            <rect width="2" height="2" x="20" y="9.5" fill="currentColor" rx=".5">
+                                            </rect>
+                                            <rect width="2" height="2" x="6" y="13" fill="currentColor" rx=".5"></rect>
+                                            <rect width="2" height="2" x="9.5" y="13" fill="currentColor" rx=".5">
+                                            </rect>
+                                            <rect width="2" height="2" x="13" y="13" fill="currentColor" rx=".5"></rect>
+                                            <rect width="2" height="2" x="16.5" y="13" fill="currentColor" rx=".5">
+                                            </rect>
+                                            <rect width="2" height="2" x="20" y="13" fill="currentColor" rx=".5"></rect>
+                                            <rect width="2" height="2" x="6" y="16.5" fill="currentColor" rx=".5">
+                                            </rect>
+                                            <rect width="9" height="2" x="9.5" y="16.5" fill="currentColor" rx=".5">
+                                            </rect>
+                                            <rect width="2" height="2" x="20" y="16.5" fill="currentColor" rx=".5">
+                                            </rect>
+                                        </svg>
+                                    </button>
+                                    <button id="daumBtnSearch" type="submit" class="btn_ksearch" title="검색"
+                                        aria-label="검색">
+                                        <svg width="28" height="28" viewBox="0 0 28 28" fill="currentColor"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                                d="M6 12.5C6 8.91015 8.91015 6 12.5 6C16.0899 6 19 8.91015 19 12.5C19 16.0899 16.0899 19 12.5 19C8.91015 19 6 16.0899 6 12.5ZM12.5 4C7.80558 4 4 7.80558 4 12.5C4 17.1944 7.80558 21 12.5 21C14.5006 21 16.3399 20.3088 17.7919 19.1522C17.836 19.2314 17.8916 19.3059 17.9589 19.3731L22.9589 24.3731C23.3494 24.7636 23.9826 24.7636 24.3731 24.3731C24.7636 23.9826 24.7636 23.3494 24.3731 22.9589L19.3731 17.9589C19.3059 17.8916 19.2314 17.836 19.1522 17.7919C20.3088 16.3399 21 14.5006 21 12.5C21 7.80558 17.1944 4 12.5 4Z"
+                                                fill="currentColor"></path>
+                                        </svg>
+                                    </button>
+                                </div>
+                            </div>
+                        </fieldset>
+                        <div id="daumSuggestTop" class="box_suggest">
+                            <div id="suggestBox"></div>
+                        </div>
+                    </form>
+                    <div id="wrapMinidaum"></div>
+                </div>
+                <div id="daumGnb">
+                    <div class="tab_dynamic tab_flex">
+                        <ul class="list_tab">
+                            <li class="">
+                                <a href="?w=tot&q=LG%25EC%25A0%2584%25EC%259E%2590&DA=NTB" class="tab_tit"
+                                    onclick="smartLog(this, 'pg=1&r=1&p=1&rc=1&dc=NTB&at=more', event);"><span
+                                        class="inner_tab">통합</span></a>
+                            </li>
+                            <li class='on'>
+                                <span class="screen_out">선택된 항목</span>
+                                <a href="?w=news&amp;nil_search=btn&amp;DA=NTB&amp;enc=utf8&amp;cluster=y&amp;cluster_page=1&amp;q=LG%25EC%25A0%2584%25EC%259E%2590"
+                                    class="tab_tit" onclick="smartLog(this, 'pg=1&r=2&p=1&rc=1&dc=NTB&at=more', event)">
+                                    <span class="inner_tab">
+                                        뉴스</span>
+                                </a>
+                            </li>
+                            <li class=''>
+                                <a href="?w=img&amp;nil_search=btn&amp;DA=NTB&amp;enc=utf8&amp;q=LG%25EC%25A0%2584%25EC%259E%2590"
+                                    class="tab_tit" onclick="smartLog(this, 'pg=1&r=3&p=1&rc=1&dc=NTB&at=more', event)">
+                                    <span class="inner_tab">
+                                        이미지</span>
+                                </a>
+                            </li>
+                            <li class=''>
+                                <a href="?w=vclip&amp;nil_search=btn&amp;DA=NTB&amp;enc=utf8&amp;q=LG%25EC%25A0%2584%25EC%259E%2590"
+                                    class="tab_tit" onclick="smartLog(this, 'pg=1&r=4&p=1&rc=1&dc=NTB&at=more', event)">
+                                    <span class="inner_tab">
+                                        동영상</span>
+                                </a>
+                            </li>
+                            <li class=''>
+                                <a href="?w=fusion&amp;nil_search=btn&amp;DA=NTB&amp;p=2&amp;q=LG%25EC%25A0%2584%25EC%259E%2590"
+                                    class="tab_tit" onclick="smartLog(this, 'pg=1&r=5&p=1&rc=1&dc=NTB&at=more', event)">
+                                    <span class="inner_tab">
+                                        통합웹</span>
+                                </a>
+                            </li>
+                            <li class=''>
+                                <a href="?w=site&amp;nil_search=btn&amp;DA=NTB&amp;enc=utf8&amp;lpp=10&amp;q=LG%25EC%25A0%2584%25EC%259E%2590"
+                                    class="tab_tit" onclick="smartLog(this, 'pg=1&r=6&p=1&rc=1&dc=NTB&at=more', event)">
+                                    <span class="inner_tab">
+                                        사이트</span>
+                                </a>
+                            </li>
+                            <li class=''>
+                                <a href="http://dic.daum.net/search.do?q=LG%25EC%25A0%2584%25EC%259E%2590"
+                                    target="_blank" class="tab_tit"
+                                    onclick="smartLog(this, 'pg=1&r=7&p=1&rc=1&dc=NTB&at=more', event)">
+                                    <span class="inner_tab">
+                                        어학사전<span class="ico_ksg ico_outlink">새창</span>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class=''>
+                                <a href="https://map.kakao.com/?from=total&amp;nil_suggest=btn&amp;tab=place&amp;q=LG%25EC%25A0%2584%25EC%259E%2590"
+                                    target="_blank" class="tab_tit"
+                                    onclick="smartLog(this, 'pg=1&r=8&p=1&rc=1&dc=NTB&at=more', event)">
+                                    <span class="inner_tab">
+                                        지도<span class="ico_ksg ico_outlink">새창</span>
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="more_dynamic more_search">
+                            <button id="gnbToggleBtn" type="button" class="btn_tab" title="더보기">
+                                <span class="ico_ksg">더보기/접기</span>
+                            </button>
+                            <ul class="list_more">
+                                <li class=''>
+                                    <a href="https://100.daum.net/search/entry?q=LG%25EC%25A0%2584%25EC%259E%2590"
+                                        target="_blank" class="tab_tit"
+                                        onclick="smartLog(this, 'pg=1&r=9&p=2&rc=1&e1=NS&e2=1DVZ&dc=NTB&at=more', event)">
+                                        <span class="inner_tab">
+                                            백과사전<span class="ico_ksg ico_outlink">새창</span>
+                                        </span>
+                                    </a>
+                                </li>
+                                <li class=''>
+                                    <a href="https://shoppinghow.kakao.com/search/LG%25EC%25A0%2584%25EC%259E%2590/&amp;srchhow=Cexpo"
+                                        target="_blank" class="tab_tit"
+                                        onclick="smartLog(this, 'pg=1&r=10&p=2&rc=1&e1=NS&e2=SNPZ&dc=NTB&at=more', event)">
+                                        <span class="inner_tab">
+                                            쇼핑<span class="ico_ksg ico_outlink">새창</span>
+                                        </span>
+                                    </a>
+                                </li>
+                                <li class=''>
+                                    <a href="?w=book&amp;nil_search=btn&amp;DA=NTB&amp;enc=utf8&amp;q=LG%25EC%25A0%2584%25EC%259E%2590"
+                                        class="tab_tit"
+                                        onclick="smartLog(this, 'pg=1&r=11&p=2&rc=1&e1=NS&e2=LB2Z&dc=NTB&at=more', event)">
+                                        <span class="inner_tab">
+                                            책</span>
+                                    </a>
+                                </li>
+                                <li class=''>
+                                    <a href="https://www.melon.com/search/total/index.htm?q=LG%25EC%25A0%2584%25EC%259E%2590&amp;ref=W10060"
+                                        target="_blank" class="tab_tit"
+                                        onclick="smartLog(this, 'pg=1&r=12&p=2&rc=1&e1=NS&e2=MS2Z&dc=NTB&at=more', event)">
+                                        <span class="inner_tab">
+                                            멜론뮤직<span class="ico_ksg ico_outlink">새창</span>
+                                        </span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <div id="daumContent">
+            <main id="cMain">
+                <div id="mArticle">
+                    <div class="inner_article">
+                        <span id="daumBody" class="screen_out">검색 본문</span>
+
+                        <div disp-attr="DNS" class="g_comp">
+                            <div id="dnsColl">
+                                <div class="card_comp">
+                                    <h2 class="screen_out">다음뉴스</h2>
+                                    <div class="c-filter ty_etc"> <strong class="tit_tab">상세검색옵션</strong>
+                                        <div class="c-option">
+                                            <div class="opt_comp" data-option-type="sort"> <strong
+                                                    class="tit_opt">구분</strong>
+                                                <div class="c-sub-sort"> <a href="javascript:;" data-sort="accuracy"
+                                                        class="on"
+                                                        onclick='smartLog(this, "s=NS&a=STCF&dc=STC&pg=1&r=1&p=1&rc=1&at=func", event);'>정확도순</a>
+                                                    <a href="javascript:;" data-sort="recency"
+                                                        onclick='smartLog(this, "s=NS&a=STCF&dc=STC&pg=1&r=1&p=2&rc=1&at=func", event);'>최신순</a>
+                                                    <a href="javascript:;" data-sort="old"
+                                                        onclick='smartLog(this, "s=NS&a=STCF&dc=STC&pg=1&r=1&p=17&rc=1&at=func", event);'>오래된순</a>
+                                                </div>
+                                            </div>
+                                            <div class="opt_comp" data-option-type="period"> <strong
+                                                    class="tit_opt">기간</strong>
+                                                <div class="c-sub-sort"> <a href="javascript:;" data-period=""
+                                                        class="on"
+                                                        onclick='smartLog(this, "s=NS&a=STCF&dc=STC&pg=1&r=1&p=3&rc=1&at=func", event);'>전체
+                                                    </a> <a href="javascript:;" data-period="d"
+                                                        onclick='smartLog(this, "s=NS&a=STCF&dc=STC&pg=1&r=1&p=4&rc=1&at=func", event);'>1일
+                                                    </a> <a href="javascript:;" data-period="w"
+                                                        onclick='smartLog(this, "s=NS&a=STCF&dc=STC&pg=1&r=1&p=5&rc=1&at=func", event);'>1주
+                                                    </a> <a href="javascript:;" data-period="m"
+                                                        onclick='smartLog(this, "s=NS&a=STCF&dc=STC&pg=1&r=1&p=6&rc=1&at=func", event);'>
+                                                        1개월 </a> <a href="javascript:;" data-period="6m"
+                                                        onclick='smartLog(this, "s=NS&a=STCF&dc=STC&pg=1&r=1&p=13&rc=1&at=func", event);'>6개월
+                                                    </a> <a href="javascript:;" data-period="y"
+                                                        onclick='smartLog(this, "s=NS&a=STCF&dc=STC&pg=1&r=1&p=14&rc=1&at=func", event);'>1년
+                                                    </a> <a href="javascript:;" data-period="u"
+                                                        onclick='smartLog(this, "s=NS&a=STCF&dc=STC&pg=1&r=1&p=7&rc=1&at=func", event);'>
+                                                        직접입력<span class="ico_more ico-pmp">옵션선택하기</span> </a> </div>
+                                                <div class="opt_detail" data-period="u" style="display: none"> </div>
+                                            </div>
+                                            <div class="opt_comp" data-option-type="article_type"> <strong
+                                                    class="tit_opt">유형</strong>
+                                                <div class="c-sub-sort"> <a href="javascript:;" data-article_type=""
+                                                        class="on"
+                                                        onclick='smartLog(this, "s=NS&a=STCF&dc=STC&pg=1&r=1&p=20&rc=1&at=func", event);'>전체
+                                                    </a> <a href="javascript:;" data-article_type="photo"
+                                                        onclick='smartLog(this, "s=NS&a=STCF&dc=STC&pg=1&r=1&p=21&rc=1&at=func", event);'>포토
+                                                    </a> <a href="javascript:;" data-article_type="video"
+                                                        onclick='smartLog(this, "s=NS&a=STCF&dc=STC&pg=1&r=1&p=22&rc=1&at=func", event);'>동영상
+                                                    </a> <a href="javascript:;" data-article_type="infographic"
+                                                        onclick='smartLog(this, "s=NS&a=STCF&dc=STC&pg=1&r=1&p=23&rc=1&at=func", event);'>인포그래픽
+                                                    </a> <a href="javascript:;" data-article_type="robot"
+                                                        onclick='smartLog(this, "s=NS&a=STCF&dc=STC&pg=1&r=1&p=24&rc=1&at=func", event);'>자동생성기사
+                                                    </a> <a href="javascript:;" data-article_type="report"
+                                                        onclick='smartLog(this, "s=NS&a=STCF&dc=STC&pg=1&r=1&p=25&rc=1&at=func", event);'>보도자료
+                                                    </a> <a href="javascript:;" data-article_type="inquiry"
+                                                        onclick='smartLog(this, "s=NS&a=STCF&dc=STC&pg=1&r=1&p=47&rc=1&at=func", event);'>탐사뉴스
+                                                    </a> <a href="javascript:;" data-article_type="fact"
+                                                        onclick='smartLog(this, "s=NS&a=STCF&dc=STC&pg=1&r=1&p=48&rc=1&at=func", event);'>팩트체크
+                                                    </a> </div>
+                                            </div>
+                                            <div class="opt_comp ty_news" data-option-type="cpname"> <strong
+                                                    class="tit_opt">언론사</strong>
+                                                <div class="c-sub-sort"> <a href="javascript:;" data-cpname=""
+                                                        class="btn_cpname_reset on"
+                                                        onclick='smartLog(this, "s=NS&a=STCF&dc=STC&pg=1&r=1&p=8&rc=1&at=func", event);'>전체
+                                                    </a> <a href="javascript:;" data-cpname="cpname"
+                                                        data-detail-type="c" class="btn_cpname"
+                                                        onclick='smartLog(this, "s=NS&a=STCF&dc=STC&pg=1&r=1&p=16&rc=1&at=func", event);'>
+                                                        <span class="label">가나다순</span><span
+                                                            class="ico_more ico-pmp">옵션선택하기</span> </a> <a
+                                                        href="javascript:;" data-cpname="" data-detail-type="u"
+                                                        class="btn_suggest"
+                                                        onclick='smartLog(this, "s=NS&a=STCF&dc=STC&pg=1&r=1&p=9&rc=1&at=func", event);'>
+                                                        직접입력<span class="ico_more ico-pmp">옵션선택하기</span> </a> </div>
+                                                <div class="opt_detail" data-detail-type="c" style="display: none">
+                                                    <div class="c-comp-filterwide"> <strong
+                                                            class="screen_out">가나다순</strong>
+                                                        <div class="box_optg">
+                                                            <div class="wrap_opt">
+                                                                <div class="inner"> <label><input type="radio"
+                                                                            class="inp_g" name="category" value="ㄱ"
+                                                                            checked=""><span
+                                                                            class="clamp-g">ㄱ</span></label>
+                                                                    <label><input type="radio" class="inp_g"
+                                                                            name="category" value="ㄴ"><span
+                                                                            class="clamp-g">ㄴ</span></label>
+                                                                    <label><input type="radio" class="inp_g"
+                                                                            name="category" value="ㄷ"><span
+                                                                            class="clamp-g">ㄷ</span></label>
+                                                                    <label><input type="radio" class="inp_g"
+                                                                            name="category" value="ㄹ"><span
+                                                                            class="clamp-g">ㄹ</span></label>
+                                                                    <label><input type="radio" class="inp_g"
+                                                                            name="category" value="ㅁ"><span
+                                                                            class="clamp-g">ㅁ</span></label>
+                                                                    <label><input type="radio" class="inp_g"
+                                                                            name="category" value="ㅂ"><span
+                                                                            class="clamp-g">ㅂ</span></label>
+                                                                    <label><input type="radio" class="inp_g"
+                                                                            name="category" value="ㅅ"><span
+                                                                            class="clamp-g">ㅅ</span></label>
+                                                                    <label><input type="radio" class="inp_g"
+                                                                            name="category" value="ㅇ"><span
+                                                                            class="clamp-g">ㅇ</span></label>
+                                                                    <label><input type="radio" class="inp_g"
+                                                                            name="category" value="ㅈ"><span
+                                                                            class="clamp-g">ㅈ</span></label>
+                                                                    <label><input type="radio" class="inp_g"
+                                                                            name="category" value="ㅊ"><span
+                                                                            class="clamp-g">ㅊ</span></label>
+                                                                    <label><input type="radio" class="inp_g"
+                                                                            name="category" value="ㅋ"><span
+                                                                            class="clamp-g">ㅋ</span></label>
+                                                                    <label><input type="radio" class="inp_g"
+                                                                            name="category" value="ㅌ"><span
+                                                                            class="clamp-g">ㅌ</span></label>
+                                                                    <label><input type="radio" class="inp_g"
+                                                                            name="category" value="ㅍ"><span
+                                                                            class="clamp-g">ㅍ</span></label>
+                                                                    <label><input type="radio" class="inp_g"
+                                                                            name="category" value="ㅎ"><span
+                                                                            class="clamp-g">ㅎ</span></label>
+                                                                    <label><input type="radio" class="inp_g"
+                                                                            name="category" value="기타"><span
+                                                                            class="clamp-g">ABC</span></label> </div>
+                                                            </div>
+                                                            <div class="wrap_opt wrap_cp_names">
+                                                                <div class="inner"> </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="opt_detail" data-detail-type="u" style="display: none">
+                                                    <div class="wrap_keyword"> <span class="comp-inptxt"> <label
+                                                                class="inner"> <span class="screen_out">검색어 입력창</span>
+                                                                <input type="text" class="tf_g" placeholder="언론사를 입력하세요"
+                                                                    value=""> <button type="button"
+                                                                    class="btn_text">적용</button> <span
+                                                                    class="inbox"></span> </label> </span>
+                                                        <div class="cont_keyword" style="display: none"> </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="opt_comp ty_keep"> <button type="reset" class="btn_reset"> <span
+                                                        class="ico-pmp"></span>초기화 </button> <label class="lab_keep">
+                                                    <input type="checkbox" class="inp_g"
+                                                        onclick='smartLog(this, "s=NS&a=STCF&dc=STC&pg=1&e=1&pg=1&at=func", event);'>
+                                                    <strong class="tit_opt">옵션유지</strong> </label> </div>
+                                        </div>
+                                        <div class="layer_opt"> <button type="button" class="btn_more"><span
+                                                    class="ico-pmpaf"></span><span class="txt_option">옵션</span></button>
+                                        </div>
+                                    </div>
+                                    <div class="tit_section"><span class="gem-subdesc"><span class="txt_desc">뉴스제휴 언론사
+                                                검색결과<span class="c-tooltip"><a href="javascript:;" class="c-btn-layer"
+                                                        onclick='smartLog(this, "dc=DNS&pg=1&r=1&p=93&rc=1&at=func", event);'><i
+                                                            class="i-info" title="안내">i</i></a><span
+                                                        class="c-layer-tip"><strong class="tit_item">뉴스검색 설정
+                                                            안내</strong><span class="main_area"><span
+                                                                class="info-basic"><span class="txt_info">뉴스제휴 언론사와 전체
+                                                                    검색결과 선택이 가능합니다.</span></span></span><span
+                                                            class="sub_area"><span class="info-basic"><span
+                                                                    class="txt_subinfo"></span><span class="txt_info"><a
+                                                                        href="https://cs.daum.net/faq/15/4112.html#38840"
+                                                                        onclick='smartLog(this, "dc=DNS&pg=1&r=1&p=95&rc=1&at=func", event);'>자세히
+                                                                        보기</a></span></span></span><button type="button"
+                                                            class="btn_close"
+                                                            onclick='smartLog(this, "dc=DNS&pg=1&r=1&p=94&rc=1&at=func", event);'><span
+                                                                class="ico-pmp">닫기</span></button></span></span></span></span>
+                                        <div class="box_edit"><button type="button" class="btn_edit"
+                                                onclick='smartLog(this, "dc=DNS&pg=1&r=1&p=96&rc=1&at=func", event);'><span
+                                                    class="icon_edit"></span>뉴스검색 설정</button>
+                                            <div class="wrap_radio"><span class="choice_radio"><input type="radio"
+                                                        id="inpAll" name="newsType" class="inp_radio"
+                                                        onclick='smartLog(this, "dc=DNS&pg=1&r=1&p=97&rc=1&at=func", event);'><label
+                                                        for="inpAll" class="lab_inp"><span
+                                                            class="icon_check"></span>전체</label></span><span
+                                                    class="choice_radio"><input type="radio" id="inpDaum"
+                                                        name="newsType" class="inp_radio" checked="checked"><label
+                                                        for="inpDaum" class="lab_inp"><span
+                                                            class="icon_check"></span>뉴스제휴 언론사</label></span></div>
+                                        </div><span class="wrap_notice"><span class="txt_notice"><em>뉴스검색 설정</em>을 이용해
+                                                보세요.</span></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <script> /** 탭 */ SG.ready('#dnsColl', function () { SG.use.collection({ name: 'dns-news-p', src: 'https://search1.daumcdn.net/search/statics/common/js/fe/tot-workspace/collections/dns-news-p/1.3.7/remoteEntry.js', data: { platform: 'pc', chartData: [], rootId: 'dnsColl', pageNavigation: { totalPage: 0, currentPage: 1 }, searchOption: { rootId: '#dnsColl', defaultOptions: ['show_dns'], selector: {}, resetParams: { sd: '', ed: '', cp: '', sort: '', period: '', p: '', cpname: '', cluster: '', cluster_docid: '', article_type: '', show_dns: '', DA: 'DNS' }, paramKey: 'cpname', cpSelect: { selectors: { categoryButton: 'input.inp_g', contents: '.wrap_cp_names .inner' }, qsearch: { params: { cpinfo_req: 'y', cp_initial: '', w: 'news' }, version: 2 }, logs: { select: 'dc=STC&pg=1&r=1&p=39&rc=1&at=func' } }, cpMenu: { selectors: { cpButton: 'div[data-option-type="cpname"] .btn_cpname', cpButtonLabel: '.btn_cpname .label', cpPanel: 'div[data-option-type="cpname"] .opt_detail', resetButton: 'div[data-option-type="cpname"] .btn_cpname_reset', suggestButton: 'div[data-detail-type="u"] .btn_suggest', suggestPanel: 'div[data-detail-type="c"] .opt_cp_suggest' } }, cpSuggest: { apiUrl: 'https://dapi.kakao.com/suggest-hub/v1/search.json?service=news-cpinfo&format=json&cate=', selectors: { input: '.tf_g', submitButton: '.btn_text', layer: '.cont_keyword' }, logs: { userInput: 'dc=STC&pg=1&r=1&p=40&rc=1&at=func' } } }, newsSearchOption: { selectors: { tooltip: '.box_edit', tooltip_btn: '.btn_edit', radio: 'input[type=radio][name="newsType"]', }, cookie: { name: 'SHOW_DNS', expireDate: 400, daumNewsValue: '1', allNewsValue: '0', }, toast: { sessionStorageKey: 'needNewsToastMessage', daumNewsMessage: '뉴스제휴 언론사 검색결과가 계속 유지됩니다.', allNewsMessage: '전체 검색결과가 계속 유지됩니다.', }, }, tooltip: { root: '.c-tooltip', icon: '.i-info', layer: '.c-layer-tip', layerCloseBtn: '.btn_close' } } }); }); </script>
+                        </div>
+                        <script>
+                            SG.ready('div[disp-attr="DNS"]', function () {
+                                SF.viewport('div[disp-attr="DNS"] img[data-original-src]', function (e) {
+                                    SF.loadImage(e);
+                                });
+                            });
+                        </script>
+                        <div id="noResult" class="card_comp">
+                            <div class="coll_tit coll_notit">
+                                <h2 class="screen_out">검색결과</h2>
+                            </div>
+                            <div class="wrap_result">
+                                <p class="desc_info">
+                                    <strong><span class="txt_ellip">'LG%EC%A0%84%EC%9E%90'</span></strong>에 대한 검색결과가
+                                    없습니다.
+                                </p>
+                                <ul class="list_info">
+                                    <li>검색어의 철자가 정확한지 확인해주세요.</li>
+                                    <li>비슷한 다른 검색어를 입력해보세요.</li>
+                                    <li>
+                                        두 단어 이상의 검색어의 경우, 띄어쓰기를 확인해 보세요.
+                                        <a href="?w=tot&q=맞춤법 검사기&DA=NNN"
+                                            onclick="smartLog(this, 'dc=NNN&p=1&r=1', event)">다음 맞춤법 검사기</a>
+                                    </li>
+                                    <li>검색 옵션을 변경해서 다시 검색해 보세요</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <aside id="mAside">
+                    <div disp-attr="DZR" class="g_comp_s">
+                        <div id="randomCategoryColl" class="content_realtime">
+                            <div class="coll_tit">
+                                <h2 class="tit">분야별 검색어</h2>
+                                <div class="mg_expander"><span class="f_nb">10.16. 13:04</span></div>
+                            </div>
+                            <div id="randomCategoryCollDetail" class="coll_cont">
+                                <div class="tab_comp tab_box">
+                                    <ul id="rtissue_categories" class="list_tab tab_size3">
+                                        <li class='on'><a class="tab_tit" href="javascript:"
+                                                onclick="C.randomCategoryColl.switchTab(0, 'DZR', event)"><span
+                                                    class="inner_tit">연극</span></a></li>
+                                        <li><a class="tab_tit" href="javascript:"
+                                                onclick="C.randomCategoryColl.switchTab(1, 'DTX', event)"><span
+                                                    class="inner_tit">콘서트</span></a></li>
+                                        <li><a class="tab_tit" href="javascript:"
+                                                onclick="C.randomCategoryColl.switchTab(2, 'R0T', event)"><span
+                                                    class="inner_tit">시사교양tv</span></a></li>
+                                    </ul>
+                                </div>
+                                <div class="wrap_rank">
+                                    <ol class="list_rank">
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">1</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=DZR&q=%EC%97%B0%EA%B7%B9%20%E3%80%88%EA%B3%A0%EB%8F%84%EB%A5%BC%20%EA%B8%B0%EB%8B%A4%EB%A6%AC%EB%A9%B0%EB%A5%BC%20%EA%B8%B0%EB%8B%A4%EB%A6%AC%EB%A9%B0%E3%80%89&rtmaxcoll=DZR,TCS&spId=play.base-251846"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=DZR&pg=1&at=link&rc=10&p=1&r=1',event);">연극
+                                                        〈고도를 기다리며를 기다리며〉</a></span> </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">2</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=DZR&q=%EC%97%B0%EA%B7%B9%20%EC%84%9C%EC%9A%B8%EC%9D%98%20%EB%B3%84&rtmaxcoll=DZR,TCS&spId=play.base-250590"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=DZR&pg=1&at=link&rc=10&p=1&r=2',event);">연극
+                                                        서울의 별</a></span> </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">3</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=DZR&q=%EC%97%B0%EA%B7%B9%20%E3%80%88%EC%97%90%EC%BF%A0%EC%9A%B0%EC%8A%A4%20%E2%80%99EQUUS%E2%80%99%E3%80%89%3A%20%ED%95%9C%EA%B5%AD%20%EC%B4%88%EC%97%B0%2050%EC%A3%BC%EB%85%84%20%EA%B8%B0%EB%85%90%EA%B3%B5%EC%97%B0&rtmaxcoll=DZR,TCS&spId=play.base-251881"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=DZR&pg=1&at=link&rc=10&p=1&r=3',event);">연극
+                                                        〈에쿠우스 ’EQUUS’〉: 한국 초연 50주년 기념공연</a></span> </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">4</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=DZR&q=%EC%97%B0%EA%B7%B9%20%E3%80%88%EC%95%84%EB%A7%88%EB%8D%B0%EC%9A%B0%EC%8A%A4%E3%80%89&rtmaxcoll=DZR,TCS&spId=play.base-252982"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=DZR&pg=1&at=link&rc=10&p=1&r=4',event);">연극
+                                                        〈아마데우스〉</a></span> </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">5</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=DZR&q=%EB%A7%88%ED%8A%B8%EB%A1%9C%EC%8B%9C%EC%B9%B4&rtmaxcoll=DZR,TCS&spId=play.base-253718"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=DZR&pg=1&at=link&rc=10&p=1&r=5',event);">마트로시카</a></span>
+                                            </div>
+                                        </li>
+                                    </ol>
+                                    <ol class="list_rank">
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">6</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=DZR&q=%EC%97%B0%EA%B7%B9%20%EF%BC%BB%EB%AA%A8%EB%93%A0%20%EB%82%A0%20%EB%AA%A8%EB%93%A0%20%EC%88%9C%EA%B0%84%EF%BC%BD&rtmaxcoll=DZR,TCS&spId=play.base-253460"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=DZR&pg=1&at=link&rc=10&p=1&r=6',event);">연극
+                                                        ［모든 날 모든 순간］</a></span> </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">7</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=DZR&q=%EC%97%B0%EA%B7%B9%20%E3%80%88%EC%82%AC%EC%9D%98%20%EC%B0%AC%EB%AF%B8%E3%80%89&rtmaxcoll=DZR,TCS&spId=play.base-253035"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=DZR&pg=1&at=link&rc=10&p=1&r=7',event);">연극
+                                                        〈사의 찬미〉</a></span> </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">8</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=DZR&q=%EB%82%B4%EC%95%88%EC%9D%98%20%EA%B7%B8%EB%85%80%20%EA%B4%91%EC%A3%BC%EA%B3%B5%EC%97%B0&rtmaxcoll=DZR,TCS&spId=play.base-254610"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=DZR&pg=1&at=link&rc=10&p=1&r=8',event);">내안의
+                                                        그녀 광주공연</a></span> </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">9</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=DZR&q=%EC%97%B0%EA%B7%B9%20%E3%80%88%EA%B8%B0%EB%8F%84%EB%AC%B8-Litanei%E3%80%89&rtmaxcoll=DZR,TCS&spId=play.base-254198"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=DZR&pg=1&at=link&rc=10&p=1&r=9',event);">연극
+                                                        〈기도문-Litanei〉</a></span> </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">10</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=DZR&q=%EB%B2%9A%EA%BD%83%EB%8F%99%EC%82%B0&rtmaxcoll=DZR,TCS&spId=play.base-254199"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=DZR&pg=1&at=link&rc=10&p=1&r=10',event);">벚꽃동산</a></span>
+                                            </div>
+                                        </li>
+                                    </ol>
+                                </div>
+                                <div class="wrap_rank" style="display:none">
+                                    <ol class="list_rank">
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">1</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=DTX&q=2025-26%EB%85%84%20%EC%A1%B0%EC%9A%A9%ED%95%84%EF%BC%86%EC%9C%84%EB%8C%80%ED%95%9C%ED%83%84%EC%83%9D%20%EC%A0%84%EA%B5%AD%ED%88%AC%EC%96%B4%20%EC%BD%98%EC%84%9C%ED%8A%B8&rtmaxcoll=DTX,TCS&spId=play.base-255104"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=DTX&pg=1&at=link&rc=10&p=1&r=1',event);">2025-26년
+                                                        조용필＆위대한탄생 전국투어 콘서트</a></span> </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">2</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=DTX&q=%EC%9E%84%EC%98%81%EC%9B%85%20IM%20HERO%20TOUR&rtmaxcoll=DTX,TCS&spId=play.base-253516"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=DTX&pg=1&at=link&rc=10&p=1&r=2',event);">임영웅
+                                                        IM HERO TOUR</a></span> </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">3</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=DTX&q=%EC%9D%B4%EB%AC%B8%EC%84%B8%20%EF%BC%87The%20Best%EF%BC%87&rtmaxcoll=DTX,TCS&spId=play.base-253491"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=DTX&pg=1&at=link&rc=10&p=1&r=3',event);">이문세
+                                                        ＇The Best＇</a></span> </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">4</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=DTX&q=%E2%80%9925-26%20%EA%B9%80%EA%B1%B4%EB%AA%A8%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%ED%88%AC%EC%96%B4%20%E3%80%88KIM%20GUN%20MO.%E3%80%89&rtmaxcoll=DTX,TCS&spId=play.base-253295"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=DTX&pg=1&at=link&rc=10&p=1&r=4',event);">’25-26
+                                                        김건모 라이브투어 〈KIM GUN MO.〉</a></span> </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">5</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=DTX&q=%EA%B9%80%EC%9A%A9%EB%B9%88%20%ED%8C%AC%EB%AF%B8%ED%8C%85%20%E3%80%88SKY%20CASTLE%E3%80%89&rtmaxcoll=DTX,TCS&spId=play.base-254649"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=DTX&pg=1&at=link&rc=10&p=1&r=5',event);">김용빈
+                                                        팬미팅 〈SKY CASTLE〉</a></span> </div>
+                                        </li>
+                                    </ol>
+                                    <ol class="list_rank">
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">6</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=DTX&q=%EC%B0%BD%EC%9B%90%20K-POP%20%EC%9B%94%EB%93%9C%20%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C&rtmaxcoll=DTX,TCS&spId=play.base-255043"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=DTX&pg=1&at=link&rc=10&p=1&r=6',event);">창원
+                                                        K-POP 월드 페스티벌</a></span> </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">7</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=DTX&q=%EA%B9%80%EB%8F%99%EB%A5%A0%20%EC%BD%98%EC%84%9C%ED%8A%B8%20%E2%80%98%EC%82%B0%EC%B1%85%E2%80%99&rtmaxcoll=DTX,TCS&spId=play.base-253626"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=DTX&pg=1&at=link&rc=10&p=1&r=7',event);">김동률
+                                                        콘서트 ‘산책’</a></span> </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">8</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=DTX&q=%EC%8E%84%EC%8B%9C%EB%B4%89%20%EF%BC%BBThe%20Last%EF%BC%BD%20%EC%BD%98%EC%84%9C%ED%8A%B8&rtmaxcoll=DTX,TCS&spId=play.base-253545"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=DTX&pg=1&at=link&rc=10&p=1&r=8',event);">쎄시봉
+                                                        ［The Last］ 콘서트</a></span> </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">9</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=DTX&q=IM%20HERO%20TOUR&rtmaxcoll=DTX,TCS&spId=play.base-253129"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=DTX&pg=1&at=link&rc=10&p=1&r=9',event);">IM
+                                                        HERO TOUR</a></span> </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">10</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=DTX&q=%EC%98%A4%EC%95%84%EC%8B%9C%EC%8A%A4(OASIS)%20%EB%82%B4%ED%95%9C%EA%B3%B5%EC%97%B0&rtmaxcoll=DTX,TCS&spId=play.base-242124"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=DTX&pg=1&at=link&rc=10&p=1&r=10',event);">오아시스(OASIS)
+                                                        내한공연</a></span> </div>
+                                        </li>
+                                    </ol>
+                                </div>
+                                <div class="wrap_rank" style="display:none">
+                                    <ol class="list_rank">
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">1</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=R0T&q=%EC%9D%B8%EA%B0%84%EA%B7%B9%EC%9E%A5&rtmaxcoll=R0T,TVP&irt=tv-program&irk=48281"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=R0T&pg=1&at=link&rc=10&p=1&r=1',event);">인간극장</a></span>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">2</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=R0T&q=%EB%AC%B4%EC%97%87%EC%9D%B4%EB%93%A0%20%EB%AC%BC%EC%96%B4%EB%B3%B4%EC%84%B8%EC%9A%94&rtmaxcoll=R0T,TVP&irt=tv-program&irk=48397"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=R0T&pg=1&at=link&rc=10&p=1&r=2',event);">무엇이든
+                                                        물어보세요</a></span> </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">3</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=R0T&q=%EC%95%84%EC%B9%A8%EB%A7%88%EB%8B%B9&rtmaxcoll=R0T,TVP&irt=tv-program&irk=48594"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=R0T&pg=1&at=link&rc=10&p=1&r=3',event);">아침마당</a></span>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">4</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=R0T&q=2TV%20%EC%83%9D%EC%83%9D%EC%A0%95%EB%B3%B4&rtmaxcoll=R0T,TVP&irt=tv-program&irk=75643"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=R0T&pg=1&at=link&rc=10&p=1&r=4',event);">2TV
+                                                        생생정보</a></span> </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">5</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=R0T&q=%ED%95%9C%EB%B8%94%EB%A6%AC%20(%ED%95%9C%EB%AC%B8%EC%B2%A0%EC%9D%98%20%EB%B8%94%EB%9E%99%EB%B0%95%EC%8A%A4%20%EB%A6%AC%EB%B7%B0)&rtmaxcoll=R0T,TVP&irt=tv-program&irk=95051"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=R0T&pg=1&at=link&rc=10&p=1&r=5',event);">한블리
+                                                        (한문철의 블랙박스 리뷰)</a></span> </div>
+                                        </li>
+                                    </ol>
+                                    <ol class="list_rank">
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">6</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=R0T&q=%EA%B7%B8%EA%B2%83%EC%9D%B4%20%EC%95%8C%EA%B3%A0%20%EC%8B%B6%EB%8B%A4&rtmaxcoll=R0T,TVP&irt=tv-program&irk=48438"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=R0T&pg=1&at=link&rc=10&p=1&r=6',event);">그것이
+                                                        알고 싶다</a></span> </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">7</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=R0T&q=%EC%86%90%EC%84%9D%ED%9D%AC%EC%9D%98%20%EC%A7%88%EB%AC%B8%EB%93%A43&rtmaxcoll=R0T,TVP&irt=tv-program&irk=104347"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=R0T&pg=1&at=link&rc=10&p=1&r=7',event);">손석희의
+                                                        질문들3</a></span> </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">8</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=R0T&q=%ED%8A%B9%EC%A2%85%EC%84%B8%EC%83%81&rtmaxcoll=R0T,TVP&irt=tv-program&irk=60475"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=R0T&pg=1&at=link&rc=10&p=1&r=8',event);">특종세상</a></span>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">9</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=R0T&q=%EC%8B%A4%ED%99%94%ED%83%90%EC%82%AC%EB%8C%80&rtmaxcoll=R0T,TVP&irt=tv-program&irk=82841"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=R0T&pg=1&at=link&rc=10&p=1&r=9',event);">실화탐사대</a></span>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner_item"> <span class="num_rank">10</span> <span
+                                                    class="keyword_rank"><a
+                                                        href="?w=tot&DA=R0T&q=70%EC%96%B5%EC%9D%98%20%EC%84%A0%ED%83%9D&rtmaxcoll=R0T,TVP&irt=tv-program&irk=93922"
+                                                        class="link_txt"
+                                                        onclick="smartLog(this,'dc=R0T&pg=1&at=link&rc=10&p=1&r=10',event);">70억의
+                                                        선택</a></span> </div>
+                                        </li>
+                                    </ol>
+                                </div>
+                            </div>
+                        </div>
+                        <script
+                            type="text/javascript"> (function (module) { function addClass(element, className) { var check = new RegExp("(\\s|^)" + className + "(\\s|$)"); if (!check.test(element.className)) { element.className += " " + className; } } function removeClass(element, className) { var check = new RegExp("(\\s|^)" + className + "(\\s|$)"); element.className = element.className.replace(check, " ").trim(); } module.switchTab = function (categoryNumber, displayCode, event) { var tabs = document.getElementById("rtissue_categories"); for (var i = 0; i < tabs.children.length; i++) { var element = tabs.children[i]; if (element.tagName === 'LI') { if (i === categoryNumber) { addClass(element, 'on'); } else { removeClass(element, 'on'); } } } var tabContents = document.getElementById("randomCategoryCollDetail"); for (var i = 1; i < tabContents.children.length; i++) { var element = tabContents.children[i]; if (element.className === 'wrap_rank') { if (i === categoryNumber + 1) { element.style.display = "block"; } else { element.style.display = "none"; } } } smartLog(this, 'pg=1&at=func&rc=10&p=2&r=' + (categoryNumber + 1) + '&dc=' + displayCode, event); } }(C.randomCategoryColl = (C.randomCategoryColl || {})));</script>
+                    </div>
+                    <script>
+                        SG.ready('div[disp-attr="DZR"]', function () {
+                            SF.viewport('div[disp-attr="DZR"] img[data-original-src]', function (e) {
+                                SF.loadImage(e);
+                            });
+                        });
+                    </script>
+                </aside>
+            </main>
+            <footer id="daumFoot">
+                <div id="innerFooter" class="inner_footer">
+                    <div class="footer_comm">
+                        <a href="http://daumsearch.tistory.com" target="_blank"
+                            onclick="smartLog(this, 'pg=1&p=10&dc=CCC&r=1', event);" class="link_info">검색블로그</a><span
+                            class="txt_bar">|</span>
+                        <a href="https://cs.daum.net/faq/15/15649.html" target="_blank"
+                            onclick="smartLog(this, 'pg=1&p=15&dc=CCC&r=1', event);" class="link_info">검색원칙</a><span
+                            class="txt_bar">|</span>
+                        <a href="https://register.search.daum.net/" target="_blank"
+                            onclick="smartLog(this, 'pg=1&p=9&dc=CCC&r=1', event);" class="link_info">사이트 등록 신청</a><span
+                            class="txt_bar">|</span>
+                        <a href="https://mystore.kakao.com/?t_src=pc_daumsearch&t_ch=pc_footer" target="_blank"
+                            onclick="smartLog(this, 'pg=1&p=14&dc=CCC&r=1', event);" class="link_info">카카오맵
+                            매장관리</a><span class="txt_bar">|</span>
+                        <a href="https://with.kakao.com/search" target="_blank"
+                            onclick="smartLog(this, 'pg=1&p=12&dc=CCC&r=1', event);" class="link_info">검색제휴</a><span
+                            class="txt_bar">|</span>
+                        <a href="https://business.kakao.com/info/keywordad" target="_blank"
+                            onclick="smartLog(this, 'pg=1&p=2&dc=CCC&r=1', event);" class="link_info">키워드광고</a><span
+                            class="txt_bar">|</span>
+                        <a href="https://business.kakao.com/info/crossmedia" target="_blank"
+                            onclick="smartLog(this, 'pg=1&p=8&dc=CCC&r=1', event);" class="link_info">크로스미디어</a><span
+                            class="txt_bar">|</span>
+                        <a href="http://cs.daum.net/faq/15.html" target="_blank"
+                            onclick="smartLog(this, 'pg=1&p=6&dc=CCC&r=1', event);" class="link_info">고객센터</a>
+                        <address class="copyright">&nbsp;&nbsp;&nbsp;ⓒ <a href="http://kakaocorp.com" target="_blank"
+                                onclick="smartLog(this, 'pg=1&p=11&dc=CCC&r=1', event);" class="link_daum">Kakao
+                                Corp.</a></address>
+                    </div>
+                </div>
+            </footer>
+            <a href="javascript:;" class="aside_quick" id="footLinkTop"
+                onclick="smartLog(this, 'pg=1&r=1&p=1&rc=1&dc=TOP&at=func', event);">맨위로<span
+                    class="ico_rwd"></span></a>
+        </div>
+    </div>
+    <script type="text/javascript">
+        SG.runtime.init();
+    </script>
+    <script>
+        SF.lazyImage.load();
+    </script>
+    <script type="text/javascript">
+        var __MiniDaumObj = null;
+        var minidaum_options = null;
+        (function () {
+            minidaum_options = {
+                bgType: "",
+                enableLogoutRetun: true,
+                disableHotissue: true,
+                disableLogo: true,
+                disableTracker: true,
+                enableShield: false,
+                returnUrl: [
+                    'https://',
+                    location.host,
+                    location.pathname,
+                    SF.changeUrlParam({ DA: 'CDE' })
+                ].join('')
+            };
+        })();
+    </script>
+    <script src="//go.daum.net/minidaum_pc.daum" charset="utf-8" type="text/javascript" async defer></script>
+    <script type="text/javascript">
+        (function (SF) {
+            SF.tiaraTracker.trackPage();
+        })(window.SF || {});
+    </script>
+    <script type="text/javascript">
+        window.roosevelt_params_queue = window.roosevelt_params_queue || [];
+        window.roosevelt_params_queue.push({
+            channel_id: "dk", channel_label: "search", keyword: window.topQuery
+        });
+    </script>
+    <script type="text/javascript" src="//t1.daumcdn.net/midas/rt/dk_se/roosevelt_dk_se.js" async></script>
+    <script>
+        SF.viewport('#VKIBtn', function () {
+            SF.loadJS({
+                url: "\/\/search1.daumcdn.net\/search\/statics\/common\/js\/fe\/search-library-workspace\/virtual-keyboard\/1.3.0\/main.js",
+                crossOrigin: true,
+                done: function () {
+                    virtualKeyboard({
+                        DA: 'BFJ'
+                    })
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>
